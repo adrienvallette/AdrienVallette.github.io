@@ -9,28 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+You can find my full CV [here](https://adrienvallette.github.io/files/cv.pdf)
+
+## Education
+* Institut Polytechnique de Paris, [Master in Economics](https://www.ip-paris.fr/en/education/masters/economics-program/master-year-2-economics), 2023
+* [ENSAE Paris](https://www.ensae.fr/en/education/ingenieur-ensae-program), Economics and Statistics Engineering Degree, 2019-2023
+
+<!-- Work experience
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
+* Summer 2024: Research Assistant
+  * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+
+* Summer 2021- Spring 2023: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Pierre Boyer
   
 Skills
 ======
@@ -43,22 +38,22 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
