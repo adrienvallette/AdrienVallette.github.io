@@ -11,7 +11,7 @@ I am a 2nd year PhD candidate at [CREST](https://crest.science/),  [Institut Pol
 
 My interest lies broadly in **Demographic Economics** and **Family Economics**. More precisely I am working on:
 * quantifying and explaining fertility and childlessness
-* the marriage market with matching models
+* the analysis of marriage markets with matching models
 * how the two previous topics interact with each other
 
 I also worked on optimal taxation and microsimulation as research assistant with [Pierre Boyer](https://pierrecboyer.com/) and on mortality differential as an economist at [**Institut des Politiques Publiques**](https://www.ipp.eu/) during my 1st year of PhD.

@@ -21,7 +21,7 @@ author_profile: true
 <strong><em>Abstract: </em></strong> Life expectancy disparities by gender and income are well-documented, but the intersection of these variables remains underexplored. Moreover, cross-country comparison of the life expectancy income gradient is plagued with difficulties. This paper addresses those gaps by comparing the gender difference in the relationship between life expectancy and income in a harmonised framework across five high-income Western countries (Canada, France, Germany, England, and Sweden) from 2012 to 2019. We find that the life expectancy income gradient for men is steeper than for women when ranked by gross individual income quintile in all countries. This gender difference is reduced but persists in all countries when using household disposable income quintile: men gain 46% more life expectancy than women per income quintile increase.
 </p> </font>
 
-**Paper presented at**: CREST 1st year PhD student workshop (Paris, 2024), Workshop “Unequal ageing: life-expectancy, care needs and reforms to the welfare state” (Paris, 2024)
+**Paper presented at**: CREST 1st year PhD student workshop (Paris, 2024), Workshop “Unequal ageing: life-expectancy, care needs and reforms to the welfare state” (Paris, 2024), 2nd Welfare and Policy Conference (Bordeaux, 2025), 2025 AFÉPOP Conference (Marseille, 2025)
 
 ## Non-Academic Publication
 * **IPP Policy Brief 104: [On the design of self-financed Prime d’Activité reforms](https://www.ipp.eu/wp-content/uploads/2024/02/note_104-autofinancement-reforme-prime-activite-EN.pdf)**, with F. Bierbrauer, [P. Boyer](https://www.pierrecboyer.com) and E. Hansen, 2024.
