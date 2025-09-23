@@ -9,9 +9,6 @@ author_profile: true
 
 * **The Serial Monogamist and the Involuntary Celibate: How Divorce Shapes the Gender Gap in Childlessness** with [Pauline Rossi](https://sites.google.com/site/paulinerossimoulin/home)
 
-<font size="2"> <p style="line-height: 1.4; text-align: justify; margin-left: 55px;">
-<strong><em>Abstract: </em></strong>The economic analysis of fertility focuses on the average number of children per woman. Male fertility and childlessness (never having a child) remain underexplored. In this paper, we start by documenting a novel fact: in France, while childlessness used to be similar for men and women, around 13%, the fraction has increased substantially for men, reaching 21% in the most recent cohort, but not for women. We then investigate whether the emergence of serial monogamy (divorces and remarriages) can explain this trend. We develop a dynamic matching model of the marriage market with transferable utility, endogenous divorce, and remarriage. We show that an exogenous reduction in the cost of divorce can exacerbate the gender gap in childlessness under two conditions: (1) female fertility declines with age and (2) matching preferences are characterized by age hypergamy. When these conditions hold, a higher divorce rate intensifies competition faced by young men, making it harder for them to find a partner of reproductive age, while expanding options for young women. We run numerical simulations to illustrate this mechanism, finding similar results whether agents are myopic or forward-looking. The next step is to estimate the model using French administrative data and conduct counterfactual analyses to quantify the effect of serial monogamy on childlessness.
-</p> </font>
 **Paper presented at**: CREST PhD seminar (Paris, 2025)
 
 
